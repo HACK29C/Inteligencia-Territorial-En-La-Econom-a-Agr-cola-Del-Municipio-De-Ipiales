@@ -1,2 +1,2 @@
 # Inteligencia-Territorial-En-La-Econom-a-Agr-cola-Del-Municipio-De-Ipiales
-Se desarrolla una plataforma en Python que integra datos geoespaciales, económicos y sociales con ML (Gradient Boosting y Random Forest), usando fuentes oficiales y de campo, para generar mapas, visualizaciones y modelos predictivos que impulsen el desarrollo rural.
+Se busca convertir datos geoespaciales, económicos y sociales en información estratégica para impulsar el desarrollo rural. Se propone una plataforma digital en Python que combina ML (Gradient Boosting y Random Forest) con datos de campo y fuentes oficiales (DANE, DNP, UPRA). El objetivo es generar mapas temáticos, visualizaciones interactivas y modelos predictivos.
